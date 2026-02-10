@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="H01.NullMovies.App/H01.NullMovies.App.csproj" />
+  <Project Path="H01.NullMovies.Core/H01.NullMovies.Core.csproj" />
+</Solution>
